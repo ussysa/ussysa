@@ -1,8 +1,4 @@
-
-Import cv2
-Cam = cv2.VideoCapture(1)
-While cam.Isopened():
-     ret, frame = cam.read()
-     If cv2.waitkey(10) == ord('s'):
-     break
-Cv2.imshow('Granny cam', frame)
+I am usman sadiq I graduated from Nigerian army institute
+Of technology and environmental science I hail from kwara state
+I was born and brought up in kaduna state I am a machine learning practitioner using
+Python.
